@@ -1,6 +1,6 @@
 # Road-Accident-Analysis
 
-## Project Overvie
+## Project Overview
 This project provides a comprehensive analysis of road accidents using Power BI, allowing users to gain valuable insights into accident trends, patterns, and contributing factors. The interactive dashboards and visualizations help in understanding the severity, frequency, and locations of accidents, enabling data-driven decision-making for road safety improvements.
 
 ## Key Features & Insights
